@@ -16,9 +16,6 @@ You'll need to have Gulp installed. If you already have Gulp installed, skip the
 ```
 
 #### Run rythm-lightings
-```bash
-  npm install -g gulp
-```
 Now, run the default gulp task so you'll have a watchers and browser sync.
 ```bash
   gulp
