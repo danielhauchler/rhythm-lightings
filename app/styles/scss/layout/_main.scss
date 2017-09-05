@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+.group {
+    margin:0;
+    padding:0;
+	display: flex;
+	flex-wrap: wrap;
+}
+.item {
+	height: 10vh;
+	width: 6.666666666vw;
+	background-color: #09F;
+	position: relative;
+}
+.item:hover {
+	cursor: pointer;
+	background-color: #333;
+}
