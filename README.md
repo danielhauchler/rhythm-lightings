@@ -1,5 +1,5 @@
 # rhythm-lightings
-Rythm lighting page based on rythm.js.
+Rythm lighting page based on rythm.js. -> https://okazari.github.io/Rythm.js/
 
 Download or clone this repo!
 
