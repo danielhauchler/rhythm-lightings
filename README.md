@@ -15,7 +15,7 @@ You'll need to have Gulp installed. If you already have Gulp installed, skip the
   npm install -g gulp
 ```
 
-#### Run the project
+#### Run rythm-lightings
 ```bash
   npm install -g gulp
 ```
